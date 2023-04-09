@@ -1,3 +1,5 @@
 # Course_Recommender_System
-The main goal of this project is to improve learners' learning experience via helping them quickly ﬁnd new interested   courses and better paving their learning paths. Meanwhile, with more learners interacting with more courses via your  recommender systems, your company's revenue may also be increased.
-This project is currently at the Proof of Concept (PoC) phase so the main focus at this moment is to explore and compare  various machine learning models and ﬁnd one with the best performance in off-line evaluations.
+The objective of this project is to create a recommender system that will assist students in discovering new courses that are in line with their interests and academic objectives.
+The improved user experience will lead to more enrollments, more new users, and more revenue for the business.
+
+• Hypothesis: In order to find new courses that the user would be interested in, we can use information about the user's prior enrollments as well as information about the course's characteristics.
